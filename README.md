@@ -1,4 +1,8 @@
 ![image](image.png)
+![image](Screenshot 2025-06-17 125056.png)
+![image](Screenshot 2025-06-17 125111.png)
+![image](Screenshot 2025-06-17 125144.png)
+
  
  
  This interactive Streamlit application provides AI-powered analysis of property listings and insightful data visualizations for the New York City real estate market. Built with Python, Streamlit, LangChain, and Google Gemini, it serves as a practical demonstration of integrating advanced AI capabilities with data analytics to extract valuable insights from unstructured text and structured datasets.Features
